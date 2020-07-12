@@ -1,6 +1,5 @@
 # @CoderLoveMath: 코더러브매스
 ![img1](https://github.com/CoderLoveMath/CoderLoveMath/blob/master/15f9039aff41c9dcf18deee811ea2c0d-sticker.png)
-Hmm... Who I am?
 
 ### Hi, and Welcome 👋
 I am CoderLoveMath, @Coder. Also I am just a little boy in Korea 🇰🇷
