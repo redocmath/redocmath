@@ -8,7 +8,7 @@ object Redoc{
   var name = "RedoC"
   
   func hello_everyone(count){
-      for 0..<count{
+      for (0..<count){
         print("Hello")
       }
   }
