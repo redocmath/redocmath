@@ -5,7 +5,7 @@ out("Hello, Wopslang!")
 ```
 
 I'm RedoC, an open-source contributor. :hammer:  
-I am the youngest Swift Student Challenge Winner in Korea (when I was 12 years old).
+I am the youngest Swift Student Challenge Winner in Korea (when I was 12 years old, also the youngest winner in WWDC21).
 Also making [The Revolution of Algorithm Implementation](https://github.com/Wopslang/Wops_Laboratory), Learning PS.
 
 My work is mostly uploading to Github :octocat:.   
