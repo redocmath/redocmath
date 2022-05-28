@@ -1,4 +1,4 @@
-# Hello, Github! :hand:
+# Hello, Github! 👋:
 
 ```go
 out("Hello, Wopslang!")
