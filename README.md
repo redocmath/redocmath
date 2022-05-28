@@ -1,4 +1,4 @@
-# Hello, Github! 👋:
+# Hello, Github! 👋
 
 ```go
 out("Hello, Wopslang!")
